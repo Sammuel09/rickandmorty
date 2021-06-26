@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="error"
+  >
+    <h1
+      class="error-text"
+    >
+      Ooops!!!
+    </h1>
+    <h2
+      class="error-text"
+    >
+      Something went wrong
+    </h2>
+    <button
+      class="error-btn"
+    >
+      Try again
+    </button>
+  </div>
+</DocumentFragment>
+`;
