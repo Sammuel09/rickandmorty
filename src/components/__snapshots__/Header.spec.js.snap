@@ -3,7 +3,7 @@
 exports[`should take a snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="header"
+    class="header solid"
   >
     <img
       alt="Rick and Morty Logo"
